@@ -1,8 +1,0 @@
-telethon
-python-dotenv
-loguru
-uvicorn
-fastapi
-pymongo
-aiochan
-git+https://github.com/boudinfl/pke.git
